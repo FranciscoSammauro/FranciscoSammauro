@@ -18,7 +18,7 @@
 - :computer: I am passionate about `Software development` and `Cybersecurity`
 - :student: I’m currently learning  and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: Check back soon for my resume!(http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: Check back soon for my resume!().
 - :boom: You can visit [MY WEBSITE]().
 <br>
 
