@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Francisco Sammauro<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Future+Backend+Developer;Software+Engineer+Student;Competitive+Programmer;Cybersecurity+Student"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Future+Backend+Developer;Software+Engineer+Student;Cybersecurity+Enthusiast;Open+to+New+Opportunities"></a>
 </p>
 
 
@@ -18,8 +18,8 @@
 - :computer: I am passionate about `Software development` and `Cybersecurity`
 - :student: I’m currently learning  and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: Check back soon for my resume!(http://lnkiy.in/Ahmed_Hossam_Resume).
+- :boom: You can visit [MY WEBSITE]().
 <br>
 
 
