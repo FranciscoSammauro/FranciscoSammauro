@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Francisco Sammauro<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Francisco Sammauro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Future+Backend+Developer;Software+Engineer+Student;Cybersecurity+Enthusiast;Open+to+New+Opportunities"></a>
 </p>
@@ -21,6 +21,8 @@
 - :thinking: Check back soon for my resume!().
 - :boom: You can visit [MY WEBSITE]().
 <br>
+
+
 
 
 
@@ -48,6 +50,7 @@
 <h4> IDE </h4>
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 
 
 <h4> Other Tools and Technologies </h4>
@@ -58,8 +61,29 @@
 <h4> Operating System</h4>
 <span>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
 </span>
 
+
+
+
+
+ <div align=center>
+        <h1>Contribution Activity</h1>
+        <img src="https://github-readme-stats.vercel.app/api?username=FranciscoSammauro&title_color=e5bc15&text_color=FFFFFF&show_icons=true&icon_color=e5bc15&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <br>
+        <!--
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfathydev&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
+        <br>
+        -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoSammauro&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=e5bc15&fire=e5bc15&ring=e5bc15" alt="GitHub Streak Stats" height="200" />
+        <br>
+        <br>
+    </div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
 
 
     
