@@ -19,7 +19,7 @@
 - :computer: I am passionate about `Software development` and `Cybersecurity`
 - :student: I’m currently learning  and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: Check back soon for my resume!().
+- :thinking: Here you can see my <a href="https://github.com/FranciscoSammauro/WebPersonal/blob/main/franciscoSammauroCV.pdf">resume</a>!.
 - :boom: You can visit [MY WEBSITE]().
 <br>
 
