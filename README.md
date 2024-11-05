@@ -10,7 +10,9 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture>
+  <img class="right-gif" align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+</picture>
 
 <br><br>
 
@@ -22,6 +24,23 @@
 - :thinking: Here you can see my <a href="https://github.com/FranciscoSammauro/WebPersonal/blob/main/franciscoSammauroCV.pdf">resume</a>!.
 - :boom: You can visit [MY WEBSITE]( https://franciscosammauro.github.io/WebPersonal/).
 <br>
+
+<style>
+  /* Para pantallas grandes */
+  .right-gif {
+    float: right;
+    margin-left: 10px;
+  }
+
+  /* Para pantallas pequeñas: coloca el GIF arriba del texto */
+  @media (max-width: 768px) {
+    .right-gif {
+      float: none;
+      display: block;
+      margin: 0 auto 10px; /* Centra el GIF y agrega margen inferior */
+    }
+  }
+</style>
 
 
 
