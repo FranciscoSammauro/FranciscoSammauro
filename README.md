@@ -1,4 +1,25 @@
-<h1 align="center">Hi , I'm Francisco Sammauro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<style>
+  /* Para pantallas grandes */
+  .right-gif {
+    float: right;
+    margin-left: 10px;
+  }
+
+  /* Para pantallas pequeñas: coloca el GIF arriba del texto */
+  @media (max-width: 768px) {
+    .right-gif {
+      float: none;
+      display: block;
+      margin: 0 auto 10px; /* Centra el GIF y agrega margen inferior */
+    }
+  }
+</style>
+	</head>
+ 	<body>
+  		<h1 align="center">Hi , I'm Francisco Sammauro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Future+Backend+Developer;Software+Engineer+Student;Cybersecurity+Enthusiast;Open+to+New+Opportunities"></a>
@@ -25,22 +46,7 @@
 - :boom: You can visit [MY WEBSITE]( https://franciscosammauro.github.io/WebPersonal/).
 <br>
 
-<style>
-  /* Para pantallas grandes */
-  .right-gif {
-    float: right;
-    margin-left: 10px;
-  }
 
-  /* Para pantallas pequeñas: coloca el GIF arriba del texto */
-  @media (max-width: 768px) {
-    .right-gif {
-      float: none;
-      display: block;
-      margin: 0 auto 10px; /* Centra el GIF y agrega margen inferior */
-    }
-  }
-</style>
 
 
 
@@ -119,3 +125,6 @@
 <a target="_blank" href="https://x.com/FSammauro22630"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p>
+
+  	</body>
+</html>
