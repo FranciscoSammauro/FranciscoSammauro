@@ -16,19 +16,21 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture>
-  <img class="right-gif" align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-<br><br>
+<div>
+  <br><br>
 
-- 👨‍🎓: I am a `3rd year student` at the Instituto Verbo Divino secondary school.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am passionate about `Software development` and `Cybersecurity`
-- :student: I’m currently learning  and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: Here you can see my <a href="https://github.com/FranciscoSammauro/WebPersonal/blob/main/franciscoSammauroCV.pdf">resume</a>!.
-- :boom: You can visit [MY WEBSITE]( https://franciscosammauro.github.io/WebPersonal/).
-<br>
+  - 👨‍🎓: I am a `3rd year student` at the Instituto Verbo Divino secondary school.
+  - :technologist: I love using Software as a solution for every `Problem`.
+  - :computer: I am passionate about `Software development` and `Cybersecurity`
+  - :student: I’m currently learning and `Software Engineering`.
+  - :nerd_face: Always `learning new things`.
+  - :thinking: Here you can see my <a href="https://github.com/FranciscoSammauro/WebPersonal/blob/main/franciscoSammauroCV.pdf">resume</a>!.
+  - :boom: You can visit [MY WEBSITE](https://franciscosammauro.github.io/WebPersonal/).
+  <br>
+</div>
 
 
 
