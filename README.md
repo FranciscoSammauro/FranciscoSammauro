@@ -1,22 +1,6 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<style>
-  /* Para pantallas grandes */
-  .right-gif {
-    float: right;
-    margin-left: 10px;
-  }
-
-  /* Para pantallas pequeñas: coloca el GIF arriba del texto */
-  @media (max-width: 768px) {
-    .right-gif {
-      float: none;
-      display: block;
-      margin: 0 auto 10px; /* Centra el GIF y agrega margen inferior */
-    }
-  }
-</style>
 	</head>
  	<body>
   		<h1 align="center">Hi , I'm Francisco Sammauro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
@@ -126,5 +110,5 @@
 <br>
 </p>
 
-  	</body>
+</body>
 </html>
