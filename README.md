@@ -6,7 +6,7 @@
   		<h1 align="center">Hi , I'm Francisco Sammauro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Future+Backend+Developer;Software+Engineer+Student;Cybersecurity+Enthusiast;Open+to+New+Opportunities"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Future+Full+Stack+Developer;Software+Engineer+Student;Cybersecurity+Enthusiast"></a>
 </p>
 
 
@@ -22,10 +22,10 @@
 <div>
   <br><br>
 
-  - 👨‍🎓: I am a `3rd year student` at the Instituto Verbo Divino secondary school.
+  - 👨‍🎓: I am currently studying in high school.
   - :technologist: I love using Software as a solution for every `Problem`.
   - :computer: I am passionate about `Software development` and `Cybersecurity`
-  - :student: I’m currently learning and `Software Engineering`.
+  - :student: I am a self-taught student.
   - :nerd_face: Always `learning new things`.
   - :thinking: Here you can see my <a href="https://github.com/FranciscoSammauro/WebPersonal/blob/main/franciscoSammauroCV.pdf">resume</a>!.
   - :boom: You can visit [MY WEBSITE](https://franciscosammauro.github.io/WebPersonal/).
