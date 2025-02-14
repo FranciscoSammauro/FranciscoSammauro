@@ -22,7 +22,7 @@
 <div>
   <br><br>
 
-  - 👨‍🎓: I am currently studying in high school.
+  - 👨‍🎓: I am 14 years old and I am currently studying in high school.
   - :technologist: I love using Software as a solution for every `Problem`.
   - :computer: I am passionate about `Software development` and `Cybersecurity`
   - :student: I am a self-taught student.
