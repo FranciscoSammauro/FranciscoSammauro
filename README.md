@@ -52,6 +52,7 @@
  <h4>Libraries & Environments</h4>
 <span>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </span>
 
 <h4> Databases </h4>
