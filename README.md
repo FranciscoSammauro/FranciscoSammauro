@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
 
- <h4>Frameworks & Environments</h4>
+ <h4>Libraries & Environments</h4>
 <span>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </span>
